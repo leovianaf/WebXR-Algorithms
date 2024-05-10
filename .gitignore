@@ -1,0 +1,56 @@
+# Unity specific
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+.vscode/
+[*.d*]
+
+# Visual Studio Code specific
+.vscode/
+
+# Visual Studio 2022 specific
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Unity generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Unity generated file on crash reports
+sysinfo.txt
+
+
+# Unity3D generated file on crash reports
+*.stackdump
+
+# XR Interaction Toolkit specific
+Packages/XR\ Interaction\ Toolkit/
+
+# User-specific settings
+UserSettings/
+
+# Uncomment the following line if you're using Rider or Visual Studio with Unity
+# *.sln
+
+# Uncomment the following line if you have Consulo solution file
+# consulo.build
+
+# Ignore all .DS_Store files in every directory
+**/.DS_Store
+
+# Ignore Unity meta files
+*.meta
+
+# Ignore built Unity files
+*.unity
+*.unitypackage
+
+# Ignore build logs
+*.log
